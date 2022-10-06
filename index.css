@@ -272,7 +272,7 @@ line-height: 1.6rem;
   display: none;
   flex-direction: column;
   gap: 6rem;
-  width: 25%;
+  width: 20%;
 }
 
 .tableContent {
@@ -337,7 +337,7 @@ line-height: 1.6rem;
 
 @media screen and (min-width: 900px) {
   .right {
-    width: 74%;
+    width: 78%;
   }
 }
 
